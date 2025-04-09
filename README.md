@@ -4,7 +4,7 @@
 https://biadepaulav.github.io/MeuPrimeiroSite/
 ## CSS interno
 https://biadepaulav.github.io/MeuPrimeiroSite/idexinterno.html
-##CSS inline
+## CSS inline
 https://biadepaulav.github.io/MeuPrimeiroSite/index.html
 ## CSS externo
 https://biadepaulav.github.io/MeuPrimeiroSite/css/estilo.css
