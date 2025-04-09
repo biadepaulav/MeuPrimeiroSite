@@ -3,9 +3,12 @@
 ## primeiro teste
 https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/
 ## CSS interno
-https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/idexinterno.html
+https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/site_sem_internet/site_sem_internet
+/idexinterno.htm
 ## CSS inline
-https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/index.html
+https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/site_sem_internet/site_sem_internet
+/index.html
 ## CSS externo
-https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/css/estilo.css
+https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main//site_sem_internet/site_sem_internet/css
+
 ### repositório destinado ao aprendizado de html e css
