@@ -1,11 +1,11 @@
 # repositório basico - meu primeiro site
 
-## Primeiro Site
+## primeiro teste
 https://biadepaulav.github.io/MeuPrimeiroSite/
 ## CSS interno
 https://biadepaulav.github.io/MeuPrimeiroSite/idexinterno.html
-##
-https://biadepaulav.github.io/MeuPrimeiroSite/
-##
-https://biadepaulav.github.io/MeuPrimeiroSite/
+##CSS inline
+https://biadepaulav.github.io/MeuPrimeiroSite/index.html
+## CSS externo
+https://biadepaulav.github.io/MeuPrimeiroSite/css/estilo.css
 repositório destinado ao aprendizado de html e css
