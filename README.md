@@ -4,7 +4,7 @@
 https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/
 ## CSS interno
 https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/site_sem_internet/site_sem_internet
-/idexinterno.htm
+/idexinterno.html
 ## CSS inline
 https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/site_sem_internet/site_sem_internet
 /index.html
