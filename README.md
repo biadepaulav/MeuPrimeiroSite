@@ -8,4 +8,4 @@ https://biadepaulav.github.io/MeuPrimeiroSite/idexinterno.html
 https://biadepaulav.github.io/MeuPrimeiroSite/index.html
 ## CSS externo
 https://biadepaulav.github.io/MeuPrimeiroSite/css/estilo.css
-#repositório destinado ao aprendizado de html e css
+# repositório destinado ao aprendizado de html e css
