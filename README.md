@@ -7,6 +7,6 @@ https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-mai
 ## CSS inline
 https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/site_sem_internet/site_sem_internet/index.html
 ## CSS externo
-https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/site_sem_internet/site_sem_internet/css/estilo.css
+https://biadepaulav.github.io/MeuPrimeiroSite/MeuPrimeiroSite_2025_1C_TurmaA-main/site_sem_internet/site_sem_internet/index.html/css/estilo.css
 
 ### repositório destinado ao aprendizado de html e css
